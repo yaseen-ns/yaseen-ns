@@ -1,6 +1,48 @@
 
+# 💫 **About Me**
+
+👨‍💻 **Full Stack Developer | Problem Solver | Lifelong Learner**  
+Hi there! I'm a passionate developer who transforms ideas into elegant digital solutions. With a strong foundation in the **MERN stack** and a curiosity that extends beyond code, I'm on a mission to build meaningful technology.
+
+---
+
+## 🚀 **I'm Currently Working On**
+- Building a comprehensive **EMS (Education Management System)** that revolutionizes logistics operations
+
+## 👥 **I'm Looking to Collaborate On**
+- Open-source projects  
+- Innovative web applications  
+- AI-powered solutions that create real-world impact
+
+## 🤝 **I'm Looking for Help With**
+- Advanced **system design patterns**  
+- **Scalable architecture** strategies  
+- Cutting-edge **AI/ML integrations**
+
+## 🌱 **I'm Currently Learning**
+- **Data Structures & Algorithms (DSA)** for optimal problem-solving  
+- **Artificial Intelligence** and its applications in modern web development
+
+## 💬 **Ask Me About**
+- MERN stack development  
+- Agile methodologies  
+- Social commentary, language, and literature
+
+## ⚡ **Fun Fact**
+I'm a natural explainer and quick learner who bridges the gap between complex tech concepts and clear communication. When I'm not coding, you'll find me exploring cultural narratives and linguistic patterns!
+
+---
+
+## 🎯 **What Drives Me**
+I believe technology should be **human-centric, scalable, and beautiful**. Whether architecting backend systems or crafting pixel-perfect interfaces, I bring curiosity, creativity, and commitment to every project.
+
+**Currently open to exciting opportunities** where I can contribute, grow, and collaborate with passionate teams! 🌟
+
+
+
 # 💫 About Me:
-👨‍💻 Full Stack Developer | Problem Solver | Lifelong Learner<br>Hi there! I'm a passionate developer who transforms ideas into elegant digital solutions. With a strong foundation in the MERN stack and a curiosity that extends beyond code, I'm on a mission to build meaningful technology.<br><br>About Me :<br>🚀 I'm currently working on<br>Building a comprehensive EMS (Education Management System) that revolutionizes logistics operations<br>👥 I'm looking to collaborate on<br>Open-source projects, innovative web applications, and AI-powered solutions that make a real-world impact<br>🤝 I'm looking for help with<br>Advanced system design patterns, scalable architecture strategies, and cutting-edge AI/ML integrations<br>🌱 I'm currently learning<br>Data Structures & Algorithms for optimal problem-solving | Artificial Intelligence and its applications in modern web development<br>💬 Ask me about<br>MERN stack development, Agile methodologies or dive into discussions about social commentary, language, and literature<br>⚡ Fun fact<br>I'm a natural explainer and quick learner who bridges the gap between complex tech concepts and clear communication. When I'm not coding, you'll find me exploring cultural narratives and linguistic patterns!<br><br>🎯 What Drives Me<br>I believe technology should be human-centric, scalable, and beautiful. Whether architecting backend systems or crafting pixel-perfect interfaces, I bring curiosity, creativity, and commitment to every project.<br>Currently open to exciting opportunities where I can contribute, grow, and collaborate with passionate teams! 🌟
+#👨‍💻 Full Stack Developer | Problem Solver | Lifelong Learner<br>
+Hi there! I'm a passionate developer who transforms ideas into elegant digital solutions. With a strong foundation in the MERN stack and a curiosity that extends beyond code, I'm on a mission to build meaningful technology.<br><br>About Me :<br>🚀 I'm currently working on<br>Building a comprehensive EMS (Education Management System) that revolutionizes logistics operations<br>👥 I'm looking to collaborate on<br>Open-source projects, innovative web applications, and AI-powered solutions that make a real-world impact<br>🤝 I'm looking for help with<br>Advanced system design patterns, scalable architecture strategies, and cutting-edge AI/ML integrations<br>🌱 I'm currently learning<br>Data Structures & Algorithms for optimal problem-solving | Artificial Intelligence and its applications in modern web development<br>💬 Ask me about<br>MERN stack development, Agile methodologies or dive into discussions about social commentary, language, and literature<br>⚡ Fun fact<br>I'm a natural explainer and quick learner who bridges the gap between complex tech concepts and clear communication. When I'm not coding, you'll find me exploring cultural narratives and linguistic patterns!<br><br>🎯 What Drives Me<br>I believe technology should be human-centric, scalable, and beautiful. Whether architecting backend systems or crafting pixel-perfect interfaces, I bring curiosity, creativity, and commitment to every project.<br>Currently open to exciting opportunities where I can contribute, grow, and collaborate with passionate teams! 🌟
 
 
 ## 🌐 Socials:
