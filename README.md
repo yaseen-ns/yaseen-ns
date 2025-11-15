@@ -13,7 +13,6 @@ Whether architecting backend systems or crafting clean UI experiences, I bring c
 
 ---
 
----
 
 ## 🚀 **Currently Working On**
 - A comprehensive **Education Management System (EMS)** engineered to streamline and modernize institutional operations
@@ -52,7 +51,7 @@ Whether architecting backend systems or crafting clean UI experiences, I bring c
 > Away from code, I explore cultural narratives, linguistic patterns, and the way human stories shape communication.
 
 ---
-
+---
 
 <br><br><br>
 # 💫 **About Me**
