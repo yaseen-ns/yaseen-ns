@@ -1,4 +1,59 @@
+# 💫 **About Me**
 
+👨‍💻 **Full Stack Developer | Problem Solver | Lifelong Learner**  
+I build ideas into elegant, scalable digital solutions. With a strong foundation in the **MERN stack** and a curiosity that travels far beyond code, I’m committed to crafting technology that actually matters.
+
+---
+
+## 🎯 **What Drives Me**
+I believe technology should be **human-centric, scalable, and aesthetically intentional**.  
+Whether I’m engineering backend systems or designing clean, thoughtful interfaces, I bring curiosity, clarity, and consistency into every project.
+
+**🌟 Actively exploring strong career opportunities** where I can contribute, innovate, and collaborate with passionate teams.
+
+---
+
+## 🚀 **Currently Working On**
+- A comprehensive **Education Management System (EMS)** engineered to streamline and modernize institutional operations
+
+---
+
+## 🌱 **Currently Learning**
+- **Data Structures & Algorithms** for peak problem-solving efficiency  
+- **Artificial Intelligence** and its role in shaping next-gen web applications
+
+---
+
+## 👥 **Open to Collaborations On**
+- Open-source initiatives  
+- High-impact web applications  
+- AI-powered tools that solve real-world problems
+
+---
+
+## 🤝 **Looking for Guidance With**
+- Advanced **system design patterns**  
+- **Distributed & scalable architecture**  
+- Deep **AI/ML integrations**
+
+---
+
+## 💬 **Ask Me About**
+- MERN stack development  
+- Agile methodologies  
+- Social commentary, language, and literature
+
+---
+
+## ⚡ **Fun Fact**
+> I’m the type of person who loves breaking complex tech ideas into smooth, digestible explanations.  
+> Outside the laptop life, I dig into culture, language, and the narrative threads that shape how people think and communicate.
+
+---
+
+
+
+<br><br><br>
 # 💫 **About Me**
 
 👨‍💻 **Full Stack Developer | Problem Solver | Lifelong Learner**  
